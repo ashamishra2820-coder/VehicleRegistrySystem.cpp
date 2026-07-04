@@ -113,7 +113,7 @@ The program provides a menu:
 
 Project explanation video link:
 
-🔗 [Click Here To Watch Video](Paste-Your-Video-Link-Here)
+🔗 [Click Here To Watch Video](https://drive.google.com/file/d/1vqh9NC4Wh_hIQeHEo8l0m11gwiYmlfNS/view?usp=drivesdk)
 
 
 ## 👩‍💻 Author
